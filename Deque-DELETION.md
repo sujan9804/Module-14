@@ -24,8 +24,8 @@ To write a Python program to delete elements at FRONT END of deque using a colle
 ### PROGRAM  
 
 ```python
-#Reg No.: 212222060252
-#Name: SREE DHARMA A V
+#Reg No.: 212222060262
+#Name: SUJAN S B
 
 import collections
 n1=int(input())
